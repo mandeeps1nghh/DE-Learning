@@ -8,7 +8,7 @@ This is my progress tracker of learning data engineering from scratch.
 
 ## Setup
 
-#Step 1
+## Step 1
 
 1.Setup virtual envs and configured Jupyter. 
 
@@ -16,13 +16,13 @@ This is my progress tracker of learning data engineering from scratch.
 
 
 
-#Step 2
+## Step 2
 
 3.Data Processing with Polars and performance optimization - (Need to practice polars)
 
 
 
-#Step 3
+## Step 3
 
 4.Worked and understood DuckDB syntax and Remote data querying
 
@@ -30,7 +30,7 @@ This is my progress tracker of learning data engineering from scratch.
 
 
 
-#Step 4
+## Step 4
 
 5.Setting Up Git 
 
@@ -40,7 +40,7 @@ This is my progress tracker of learning data engineering from scratch.
 
 
 
-\## Data Sources
+# Data Sources
 
 
 
